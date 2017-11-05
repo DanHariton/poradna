@@ -1,0 +1,3 @@
+poradna_page_homepage:
+    path:     /
+    defaults: { _controller: PoradnaPageBundle:Default:index }
